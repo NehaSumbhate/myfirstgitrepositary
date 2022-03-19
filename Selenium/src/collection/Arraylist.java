@@ -9,7 +9,7 @@ public class Arraylist {
 ArrayList obj = new ArrayList();
 String Str = "Testing";
 String str = "LOve";
-String s="ok";
+String s="ok";//
 String bb = "us";
 System.out.println(obj.add("ooo"));
 obj.add("fff");
